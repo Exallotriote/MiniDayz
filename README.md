@@ -15,7 +15,7 @@ If you want to play on a smaller window, put the following into your bookmarks. 
 
 | Action  | Key |
 |---|---|
-| Keybinds  | WASD |
+| Movement  | W,A,S,D |
 | Reload  | R |
 | Aim  | T |
 | Map / Pad Page  | Z |
@@ -40,7 +40,7 @@ Changed the following player logs:
 | Starving | 🍗 |
 | Dehydrated | 💧 |
 | Bunch of other stuff generaly meaning denial  | 🚫|
-| Other annoying texts | <nothing> |
+| Other annoying texts | |
 
 
 **GUI**
