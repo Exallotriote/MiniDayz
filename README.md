@@ -18,7 +18,7 @@ If you want to play on a smaller window, put the following into your bookmarks. 
 | Keybinds  | WASD |
 | Reload  | R |
 | Aim  | T |
-| Map / Pad Page  | B |
+| Map / Pad Page  | Z |
 | Interact / Take Items | F |
 | Pause Menu | Esc |
 | Inventory | E |
