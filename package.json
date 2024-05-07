@@ -1,0 +1,10 @@
+{
+  "name": "MDZPlus-Windows",
+  "main": "index.html",
+  "window": {
+	"icon": "icon-256.png",
+    "width": 800,
+    "height": 600,
+    "fullscreen": true
+  }
+}
