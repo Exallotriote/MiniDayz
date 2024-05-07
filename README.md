@@ -1,9 +1,10 @@
 # MiniDayz
-MiniDayz+ v1.2 PC fork with altered keybinds and some GUI and text changes.
+MiniDayz+ v1.2 PC fork with altered keybinds with some GUI and text changes.
 
 <a href='https://exallotriote.github.io/MiniDayz/'>Play the game</a>
 
 If you want to play on a smaller window, put the following into your bookmarks. Change the height and width if you want to.
+
 `javascript:window.open('https://exallotriote.github.io/MiniDayz/', 'a', "height=539, width=834")`
 
 ---
