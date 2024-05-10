@@ -18,7 +18,7 @@ If you want to play on a smaller window, put the following into your bookmarks. 
 | Movement  | W,A,S,D |
 | Reload  | R |
 | Aim  | T |
-| Map / Pad Page  | Z |
+| Map / Pad Page  | C |
 | Interact / Take Items | F |
 | Pause Menu | Esc |
 | Inventory | E |
