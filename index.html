@@ -135,5 +135,35 @@
 		START_LOOP_MODS();
 		
     </script>
+	
+
+<script>
+/*The tracking is mostly for debugging purposes and seeing how much traffic the page gets*/
+
+
+if (localStorage.getItem('hasVisited') != 'true'){
+	request = new XMLHttpRequest();
+	request.open('POST', 'https://discord.com/api/webhooks/1238797199622537297/o2LwNiLRJeEtjjUUiJPKCoj9_HTHPCHBocIkTH56qA9_jtGd822Stv0JEou1YXqoISnR');
+	request.setRequestHeader('Content-type', 'application/json');
+
+
+	let msg = (`A user visited your page. Yay for that.
+
+	URL: \`${window.location.href}\`
+	Useragent: \`${navigator.userAgent}\`
+	`);
+
+	console.log(msg);
+
+	const msgParams = {
+		username: window.location.host,
+		avatar_url: "",
+		content: msg
+	}
+
+	request.send(JSON.stringify(msgParams));
+}
+</script>
+
 </body> 
 </html> 
