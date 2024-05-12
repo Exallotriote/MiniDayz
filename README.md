@@ -52,3 +52,11 @@ Hid the following buttons (they can still be pressed but appear invisible):
 - Interact / Take Items
 - Inventory
 - Pause Button
+
+
+---
+
+To Do:
+- [ ] Remove on-screen driving controls
+- [ ] Replace i want food and i want water texts with emojis
+- [ ] Replace chicken with utensils emoji
