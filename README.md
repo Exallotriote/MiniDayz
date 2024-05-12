@@ -1,6 +1,8 @@
 # MiniDayz
 MiniDayz+ v1.2 PC fork with altered keybinds with some GUI and text changes.
 
+**REMINDER**: Press ESC in-game and switch the controls to WASD to use keyboard controls.
+
 <a href='https://exallotriote.github.io/MiniDayz/'>Play the game</a>
 
 If you want to play on a smaller window, put the following into your bookmarks. Change the height and width if you want to.
