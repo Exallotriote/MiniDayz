@@ -57,6 +57,7 @@ Hid the following buttons (they can still be pressed but appear invisible):
 ---
 
 To Do:
+- [ ] Dev TO DO
 - [ ] Remove on-screen driving controls
 - [ ] Replace i want food and i want water texts with emojis
 - [ ] Replace chicken with utensils emoji
