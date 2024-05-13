@@ -1,5 +1,5 @@
 # MiniDayz
-MiniDayz+ v1.2 PC fork with altered keybinds with some GUI and text changes.
+MiniDayz+ v1.2 PC fork with altered keybinds with some GUI and text changes. Credits to @skull_cs for making the keybinds system.
 
 **REMINDER**: Press ESC in-game and switch the controls to WASD to use keyboard controls.
 
