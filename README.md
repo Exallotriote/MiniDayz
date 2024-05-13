@@ -39,10 +39,10 @@ Changed the following player logs:
 | Healthy  | ➕ |
 | Bleeding  | 🩸 |
 | Freezing / Cold  | ❄️ |
-| Starving | 🍗 |
+| Starving | 🍴 |
 | Dehydrated | 💧 |
 | Bunch of other stuff generaly meaning denial  | 🚫|
-| Other annoying texts | |
+| Other annoying text<br> *Including "I want to eat something" and "I feel cold" texts, since that's what the bars are for.*| |
 
 
 **GUI**
@@ -58,6 +58,4 @@ Hid the following buttons (they can still be pressed but appear invisible):
 
 Dev To Do:
 - [ ] Configurable keybinds system
-- [ ] Remove on-screen driving controls
-- [ ] Replace i want food and i want water texts with emojis
-- [ ] Replace chicken with utensils emoji
+- [ ] stats
