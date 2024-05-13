@@ -57,7 +57,7 @@ Hid the following buttons (they can still be pressed but appear invisible):
 ---
 
 Dev To Do:
-- [ ] Keybinds system
+- [ ] Configurable keybinds system
 - [ ] Remove on-screen driving controls
 - [ ] Replace i want food and i want water texts with emojis
 - [ ] Replace chicken with utensils emoji
