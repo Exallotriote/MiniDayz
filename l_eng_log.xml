@@ -24,19 +24,19 @@
 <text>
 	<id>4</id>
 	<!--Freezing-->
-	<name>❄️</name>
+	<name>❗ ❄️ ❗</name>
 </text>
 
 <text>
 	<id>5</id>
 	<!--Starving-->
-	<name>🍗</name>
+	<name>❗ 🍴 ❗</name>
 </text>
 
 <text>
 	<id>6</id>
 	<!--Dehydration-->
-	<name>💧</name>
+	<name>❗💧❗</name>
 </text>
 
 <text>
@@ -78,7 +78,7 @@
 
 <text>
 	<id>14</id>
-	<name>I've eaten a raw steak.</name>
+	<name></name>
 </text>
 
 <text>
@@ -210,22 +210,22 @@
 
 <text>
 	<id>52</id>
-	<name>I've drunk from the canteen.</name>
+	<name></name>
 </text>
 
 <text>
 	<id>53</id>
-	<name>Landmine planted.</name>
+	<name>L</name>
 </text>
 
 <text>
 	<id>54</id>
-	<name>Beartrap planted.</name>
+	<name></name>
 </text>
 
 <text>
 	<id>55</id>
-	<name>Vehicle repaired.</name>
+	<name></name>
 </text>
 
 <text>
@@ -240,12 +240,12 @@
 
 <text>
 	<id>58</id>
-	<name>I've eaten cooked steak.</name>
+	<name></name>
 </text>
 
 <text>
 	<id>59</id>
-	<name>I've drunk a Nuko Cola. Feels great!</name>
+	<name>Feels great!</name>
 </text>
 
 <text>
@@ -270,7 +270,7 @@
 
 <text>
 	<id>64</id>
-	<name>I need more wooden sticks for that.</name>
+	<name>🚫</name>
 </text>
 
 <text>
@@ -285,7 +285,7 @@
 
 <text>
 	<id>67</id>
-	<name>I've drunk Kvas.</name>
+	<name></name>
 </text>
 
 <text>
@@ -331,27 +331,27 @@
 
 <text>
 	<id>76</id>
-	<name>It's already full.</name>
+	<name>🚫</name>
 </text>
 
 <text>
 	<id>77</id>
-	<name>I've drunk from the water pump.</name>
+	<name></name>
 </text>
 
 <text>
 	<id>78</id>
-	<name>I want to eat something.</name>
+	<name></name>
 </text>
 
 <text>
 	<id>79</id>
-	<name>I want to drink something.</name>
+	<name></name>
 </text>
 
 <text>
 	<id>80</id>
-	<name>It's pretty cold.</name>
+	<name></name>
 </text>
 
 <text>
